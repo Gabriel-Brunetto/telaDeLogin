@@ -1,0 +1,9 @@
+.form-title{
+    /*1 rem é 16px*/
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.form-title-light{
+    color: var(--text-color-light);
+}
